@@ -1,0 +1,214 @@
+Launch Date,Trip Size,applications,total_chances,winner_chances
+2008-01-01,Standard Size,7,21,5
+2008-01-03,Standard Size,6,20,3
+2008-01-05,Standard Size,5,17,5
+2008-01-06,Standard Size,2,2,1
+2008-01-07,Standard Size,5,17,5
+2008-01-08,Standard Size,3,8,2
+2008-01-09,Standard Size,3,7,NA
+2008-01-10,Standard Size,5,10,1
+2008-01-11,Standard Size,1,1,NA
+2008-01-12,Standard Size,1,1,1
+2008-01-13,Standard Size,0,0,NA
+2008-01-14,Standard Size,2,10,5
+2008-01-15,Standard Size,4,9,1
+2008-01-16,Standard Size,3,6,NA
+2008-01-17,Standard Size,3,9,NA
+2008-01-18,Standard Size,2,4,1
+2008-01-19,Standard Size,0,0,NA
+2008-01-20,Standard Size,0,0,NA
+2008-01-21,Standard Size,1,5,5
+2008-01-22,Standard Size,2,6,1
+2008-01-23,Standard Size,1,2,2
+2008-01-24,Standard Size,1,1,NA
+2008-01-25,Standard Size,0,0,NA
+2008-01-26,Standard Size,0,0,NA
+2008-01-28,Standard Size,3,7,1
+2008-01-29,Standard Size,5,13,1
+2008-01-30,Standard Size,5,10,5
+2008-02-03,Standard Size,9,29,5
+2008-02-04,Standard Size,6,18,1
+2008-02-05,Standard Size,6,18,5
+2008-02-06,Standard Size,10,41,1
+2008-02-07,Standard Size,9,27,1
+2008-02-11,Standard Size,3,13,3
+2008-02-12,Standard Size,5,19,5
+2008-02-13,Standard Size,8,24,5
+2008-02-14,Standard Size,6,16,5
+2008-02-17,Standard Size,7,21,2
+2008-02-20,Standard Size,11,22,1
+2008-02-21,Standard Size,9,25,5
+2008-02-25,Standard Size,18,57,5
+2008-02-26,Standard Size,23,75,8
+2008-03-05,Standard Size,35,132,3
+2008-03-05,Standard Size,see above,see above,1
+2008-03-06,Standard Size,27,85,12
+2008-03-06,Standard Size,see above,see above,3
+2008-03-07,Standard Size,23,94,1
+2008-03-07,Standard Size,see above,see above,5
+2008-03-08,Standard Size,27,120,5
+2008-03-08,Standard Size,see above,see above,5
+2008-03-09,Standard Size,18,83,5
+2008-03-10,Standard Size,40,150,3
+2008-03-10,Standard Size,see above,see above,4
+2008-03-11,Standard Size,35,134,5
+2008-03-11,Standard Size,see above,see above,5
+2008-03-12,Standard Size,44,185,5
+2008-03-12,Standard Size,see above,see above,12
+2008-03-13,Standard Size,41,153,5
+2008-03-13,Standard Size,see above,see above,1
+2008-03-14,Standard Size,50,176,13
+2008-03-14,Standard Size,see above,see above,5
+2008-03-16,Standard Size,14,66,5
+2008-03-17,Standard Size,24,92,5
+2008-03-18,Standard Size,55,242,5
+2008-03-18,Standard Size,see above,see above,5
+2008-03-19,Standard Size,67,255,3
+2008-03-19,Standard Size,see above,see above,5
+2008-03-22,Standard Size,34,147,5
+2008-03-23,Standard Size,38,153,12
+2008-03-24,Standard Size,48,181,5
+2008-03-25,Standard Size,86,343,5
+2008-03-25,Standard Size,see above,see above,10
+2008-03-26,Standard Size,100,424,5
+2008-03-26,Standard Size,see above,see above,5
+2008-03-27,Standard Size,132,579,15
+2008-03-27,Standard Size,see above,see above,5
+2008-04-04,Small Size,29,103,4
+2008-04-04,Standard Size,136,698,5
+2008-04-05,Standard Size,131,726,9
+2008-04-08,Small Size,31,118,5
+2008-04-10,Standard Size,212,1138,11
+2008-04-10,Small Size,31,115,9
+2008-04-13,Standard Size,254,1387,17
+2008-04-18,Small Size,43,145,1
+2008-04-22,Small Size,51,162,5
+2008-04-24,Small Size,49,161,1
+2008-04-26,Small Size,27,89,11
+2008-04-30,Small Size,60,201,16
+2008-05-06,Standard Size,271,1419,17
+2008-05-08,Standard Size,222,1206,4
+2008-05-08,Small Size,46,220,6
+2008-05-10,Small Size,35,126,1
+2008-05-12,Small Size,35,149,5
+2008-05-14,Small Size,40,163,11
+2008-05-16,Standard Size,202,1178,5
+2008-05-20,Small Size,36,189,5
+2008-05-21,Standard Size,165,956,13
+2008-05-22,Small Size,31,159,17
+2008-05-23,Standard Size,140,842,5
+2008-05-24,Small Size,31,154,1
+2008-05-27,Standard Size,159,1059,12
+2008-05-29,Standard Size,131,915,9
+2008-05-30,Standard Size,138,884,9
+2008-05-30,Small Size,37,169,11
+2008-06-03,Small Size,45,186,5
+2008-06-03,Standard Size,246,1462,14
+2008-06-05,Small Size,34,191,4
+2008-06-06,Standard Size,263,1592,5
+2008-06-08,Standard Size,227,1379,16
+2008-06-11,Small Size,55,254,5
+2008-06-19,Standard Size,254,1566,16
+2008-06-19,Small Size,42,160,3
+2008-06-21,Small Size,32,150,5
+2008-06-21,Standard Size,193,1157,9
+2008-06-23,Small Size,32,139,5
+2008-06-24,Standard Size,219,1245,16
+2008-06-25,Standard Size,174,1035,13
+2008-06-25,Small Size,41,188,5
+2008-06-27,Standard Size,195,1197,1
+2008-06-29,Small Size,21,106,5
+2008-07-05,Small Size,21,102,5
+2008-07-11,Standard Size,201,1282,5
+2008-07-17,Small Size,26,136,5
+2008-07-18,Standard Size,151,1039,5
+2008-07-19,Small Size,10,55,4
+2008-07-19,Standard Size,115,785,18
+2008-07-21,Small Size,16,116,9
+2008-07-23,Small Size,10,61,17
+2008-07-25,Small Size,11,48,12
+2008-07-26,Standard Size,131,921,16
+2008-07-29,Small Size,12,59,5
+2008-07-31,Standard Size,146,932,5
+2008-07-31,Small Size,14,55,5
+2008-08-03,Standard Size,137,865,3
+2008-08-06,Small Size,21,89,1
+2008-08-08,Small Size,19,79,5
+2008-08-08,Standard Size,128,803,44
+2008-08-12,Small Size,10,54,4
+2008-08-13,Standard Size,103,665,17
+2008-08-14,Small Size,7,40,4
+2008-08-16,Small Size,4,20,5
+2008-08-18,Small Size,15,94,12
+2008-08-20,Small Size,12,67,5
+2008-08-22,Small Size,20,117,17
+2008-08-22,Standard Size,105,563,16
+2008-08-26,Small Size,18,104,11
+2008-09-03,Standard Size,146,929,13
+2008-09-05,Standard Size,212,1246,15
+2008-09-05,Standard Size,see above,see above,10
+2008-09-09,Standard Size,195,1313,5
+2008-09-11,Standard Size,163,1132,10
+2008-09-13,Standard Size,151,1164,5
+2008-09-14,Standard Size,187,1344,44
+2008-09-19,Standard Size,409,2515,13
+2008-09-25,Standard Size,382,2349,4
+2008-09-27,Standard Size,456,2667,5
+2008-09-27,Standard Size,see above,see above,16
+2008-10-10,Standard Size,352,1812,18
+2008-10-21,Standard Size,246,1288,4
+2008-10-21,Standard Size,see above,see above,10
+2008-10-22,Standard Size,92,556,38
+2008-10-23,Standard Size,125,692,5
+2008-10-23,Standard Size,see above,see above,9
+2008-10-25,Standard Size,57,320,5
+2008-10-26,Standard Size,43,250,10
+2008-10-27,Standard Size,81,385,5
+2008-10-27,Standard Size,see above,see above,13
+2008-10-29,Standard Size,47,184,13
+2008-10-29,Standard Size,see above,see above,5
+2008-10-30,Standard Size,20,70,2
+2008-10-31,Standard Size,31,113,4
+2008-10-31,Standard Size,see above,see above,5
+2008-11-06,Standard Size,26,93,3
+2008-11-07,Standard Size,24,94,5
+2008-11-08,Standard Size,12,70,5
+2008-11-14,Standard Size,14,65,5
+2008-11-15,Standard Size,8,51,17
+2008-11-20,Standard Size,7,19,5
+2008-11-21,Standard Size,1,5,5
+2008-11-22,Standard Size,1,1,1
+2008-11-25,Standard Size,3,12,5
+2008-11-26,Standard Size,1,5,5
+2008-11-27,Standard Size,5,15,2
+2008-11-29,Standard Size,3,14,5
+2008-11-30,Standard Size,2,7,5
+2008-12-02,Standard Size,5,14,5
+2008-12-03,Standard Size,3,6,4
+2008-12-05,Standard Size,2,2,1
+2008-12-06,Standard Size,2,7,5
+2008-12-07,Standard Size,4,18,5
+2008-12-08,Standard Size,5,15,5
+2008-12-09,Standard Size,1,1,1
+2008-12-10,Standard Size,3,11,5
+2008-12-11,Standard Size,1,1,NA
+2008-12-12,Standard Size,1,1,NA
+2008-12-13,Standard Size,0,0,NA
+2008-12-14,Standard Size,0,0,NA
+2008-12-15,Standard Size,3,16,5
+2008-12-16,Standard Size,4,21,9
+2008-12-17,Standard Size,3,12,5
+2008-12-18,Standard Size,3,12,2
+2008-12-19,Standard Size,2,7,5
+2008-12-20,Standard Size,4,16,5
+2008-12-21,Standard Size,1,1,1
+2008-12-22,Standard Size,6,20,3
+2008-12-23,Standard Size,3,7,1
+2008-12-24,Standard Size,1,1,NA
+2008-12-25,Standard Size,2,10,5
+2008-12-26,Standard Size,0,0,NA
+2008-12-27,Standard Size,0,0,NA
+2008-12-28,Standard Size,1,5,5
+2008-12-29,Standard Size,3,9,5
+2008-12-30,Standard Size,0,0,NA
+2008-12-31,Standard Size,1,1,NA
